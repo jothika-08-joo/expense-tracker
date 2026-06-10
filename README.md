@@ -159,6 +159,26 @@ The dashboard calculates and displays:
 
 ---
 
+## 📸 Screenshots
+
+### Login Page
+![Login Page](https://github.com/jothika-08-joo/Expense-Tracker/blob/d5b7fce45e53c2e303287e70ee0e6cc881d909d7/login_page.png)
+
+### Register Page
+![Register Page](https://github.com/jothika-08-joo/Expense-Tracker/blob/d5b7fce45e53c2e303287e70ee0e6cc881d909d7/register.png)
+
+### Dashboard
+![Dashboard](https://github.com/jothika-08-joo/Expense-Tracker/blob/d5b7fce45e53c2e303287e70ee0e6cc881d909d7/dashboard.png)
+
+### Add Expense
+![Add Expense](https://github.com/jothika-08-joo/Expense-Tracker/blob/d5b7fce45e53c2e303287e70ee0e6cc881d909d7/add_expense.png)
+
+### Add Categories
+![Add Categories](https://github.com/jothika-08-joo/Expense-Tracker/blob/d5b7fce45e53c2e303287e70ee0e6cc881d909d7/add_categories.png)
+
+### Edit Expense
+![Edit Expense](https://github.com/jothika-08-joo/Expense-Tracker/blob/d5b7fce45e53c2e303287e70ee0e6cc881d909d7/edit_expense.png)
+
 ## 🧑‍💻 Author
 
 **Jothika K**  
